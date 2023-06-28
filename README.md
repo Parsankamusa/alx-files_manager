@@ -21,15 +21,15 @@ Enjoy!
 **Read or watch**:
 
 -   [Node JS getting started](https://nodejs.org/en/docs/guides/getting-started-guide)
--   [Process API doc](https://node.readthedocs.io/en/latest/api/process/")
--   [Express getting started](https://intranet.hbtn.io/rltoken/Of7EmRYDai8gACCFvyhWSg "Express getting started")
--   [Mocha documentation](https://intranet.hbtn.io/rltoken/MSeDuoE6eZsLNE7UGmz2lg "Mocha documentation")
--   [Nodemon documentation](https://intranet.hbtn.io/rltoken/ZI8c6xPOjxqNHMYwKTgGjg "Nodemon documentation")
--   [MongoDB](https://intranet.hbtn.io/rltoken/QqJ_X6fN_J5xN1C9QpgWxw "MongoDB")
--   [Bull](https://intranet.hbtn.io/rltoken/ES7s4YioPHdTDLMSnkrDyg "Bull")
--   [Image thumbnail](https://intranet.hbtn.io/rltoken/sgqzziYidPf_jc8uYrAR9Q "Image thumbnail")
--   [Mime-Types](https://intranet.hbtn.io/rltoken/F3DNXaVBIfWSuz4mcoG2Gw "Mime-Types")
--   [Redis](https://intranet.hbtn.io/rltoken/Zzz3QGJpqdcW0l3-i1s9Wg "Redis")
+-   [Process API doc](https://node.readthedocs.io/en/latest/api/process/)
+-   [Express getting started](https://expressjs.com/en/starter/installing.html)
+-   [Mocha documentation](https://mochajs.org/)
+-   [Nodemon documentation](https://github.com/remy/nodemon#nodemon)
+-   [MongoDB](https://github.com/mongodb/node-mongodb-native)
+-   [Bull](https://github.com/OptimalBits/bull)
+-   [Image thumbnail](https://www.npmjs.com/package/image-thumbnail)
+-   [Mime-Types](https://www.npmjs.com/package/mime-types)
+-   [Redis](https://github.com/redis/node-redis)
 
 ## Learning Objectives
 

@@ -33,7 +33,7 @@ Enjoy!
 
 ## Learning Objectives
 
-At the end of this project, you are expected to be able to  [explain to anyone](https://intranet.hbtn.io/rltoken/uj7cCRwndPiAuESDDD4L1A "explain to anyone"),  **without the help of Google**:
+At the end of this project, you are expected to be able to  [explain to anyone](https://fs.blog/feynman-learning-technique/),  **without the help of Google**:
 
 -   how to create an API with Express
 -   how to authenticate a user
@@ -622,6 +622,6 @@ Update the file  `worker.js`:
     -   If no document is found in DB based on the  `userId`, raise an error  `User not found`
     -   Print in the console  `Welcome <email>!`
 
-In real life, you can use a third party service like  [Mailgun](https://intranet.hbtn.io/rltoken/Ea0nfbnTWfFzaQVqT55kQQ "Mailgun")  to send real email. These API are slow, (sending via SMTP is worst!) and sending emails via a background job is important to optimize API endpoint.
+In real life, you can use a third party service like  [Mailgun](https://www.mailgun.com/"Mailgun")  to send real email. These API are slow, (sending via SMTP is worst!) and sending emails via a background job is important to optimize API endpoint.
 
 

@@ -20,8 +20,8 @@ Enjoy!
 
 **Read or watch**:
 
--   [Node JS getting started](https://intranet.hbtn.io/rltoken/YkauxeLHxnraxLKRz0I2gw "Node JS getting started")
--   [Process API doc](https://intranet.hbtn.io/rltoken/N2zlAgDvAcObVNGmCyfC4Q "Process API doc")
+-   [Node JS getting started](https://nodejs.org/en/docs/guides/getting-started-guide)
+-   [Process API doc](https://node.readthedocs.io/en/latest/api/process/")
 -   [Express getting started](https://intranet.hbtn.io/rltoken/Of7EmRYDai8gACCFvyhWSg "Express getting started")
 -   [Mocha documentation](https://intranet.hbtn.io/rltoken/MSeDuoE6eZsLNE7UGmz2lg "Mocha documentation")
 -   [Nodemon documentation](https://intranet.hbtn.io/rltoken/ZI8c6xPOjxqNHMYwKTgGjg "Nodemon documentation")
